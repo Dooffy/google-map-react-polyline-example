@@ -1,0 +1,22 @@
+{
+  "name": "google-map-react-polyline-example",
+  "version": "1.0.0",
+  "description": "Example how to add polylines to map using google-map-react",
+  "main": "src/index.js",
+  "repository": "https://github.com/Dooffy/google-map-react-polyline-example.git",
+  "author": "Maksym Shykula <maxim.shikula@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "google-map-react": "^0.24.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.0.13",
+    "standard": "^10.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
